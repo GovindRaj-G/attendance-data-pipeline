@@ -1,0 +1,6 @@
+employee_id,employee_name,company_name,attendance_date,attendance_status
+EMP001,John Doe,TechCorp,2026-10-20,Present
+EMP002,Jane Smith,TechCorp,2026-10-20,Present
+EMP003,Alex Kumar,TechCorp,2026-10-20,Absent
+EMP004,Priya Sharma,TechCorp,2026-10-20,Present
+EMP005,David Lee,TechCorp,2026-10-20,Leave
